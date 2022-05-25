@@ -12,6 +12,11 @@
     },
     {
       "idiom" : "iphone",
+      "scale" : "1x",
+      "size" : "29x29"
+    },
+    {
+      "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
@@ -69,6 +74,11 @@
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
     },
     {
       "idiom" : "ipad",
@@ -84,6 +94,16 @@
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "16x16"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "32x32"
     }
   ],
   "info" : {
